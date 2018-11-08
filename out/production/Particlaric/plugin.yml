@@ -1,0 +1,6 @@
+name: Particlaric
+main: me.ckhks.Particlaric.Particlaric
+version: 1.0
+description: Prototypes for BytePlex
+author: ckhks
+depend: [ProtocolLib]
